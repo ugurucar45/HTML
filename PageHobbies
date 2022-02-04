@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My Hobbies</title>
+</head>
+<body>
+	<h3>My Hobbies</h3>
+	<ol>
+		<li><a href="C:\Users\uguru\Desktop\ProjectDayHtml\page.html">Coding</a></li>
+		<li>Writing</li>
+		<li>Hiking</li>
+		<li><a href="https://en.wikipedia.org/wiki/Table_tennis">Table Tennis</a></li>
+		<li>Travelling</li>
+		<li>Cycling</li>
+		<li><a href="https://en.wikipedia.org/wiki/Association_football">Soccer</a></li>
+	</ol>
+</body>
+</html>
