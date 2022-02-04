@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Cirruculum Vitae</title>
+	<link rel="stylesheet" type="text/css" href="C:\Users\uguru\Desktop\ProjectDayHtml\css.css">
+</head>
+<body>
+	<table>
+		<tr>
+			<td><img src="C:\Users\uguru\Desktop\ProjectDayHtml\cousins.png" alt="" class="yuvarlak"></td>
+		<td><h2>Ugur Ucar</h2>
+	<i>Instructor and Co-found of <a href="www.techtorialacademy.com">Techtorial Academy.</a></i>
+
+	<p>Petroleum Engineer and Sofware Development Engineer in Test with core Selenium, Cucumber, SQL, Docker, Restful based API, BFF, Microservices Detail-oriented, team player, self-motivated, dedicated, open to learn and share the knowledge.</p></td></tr>
+	</table>
+	
+	
+	<hr/>
+
+	<ul>
+		<h4>Area of Expertise</h4>
+		<li>Solid knowledge in various domains such as Health Care, Banking and Retail</li>
+		<li>Deep understanding and experience working in Agile environment and involved in all phases of Software</li>
+		<li>Excellent knowledge in defining Test Methodologies and creating Test Scenarios, Test Plans, Test Cases and Acceptance Criteria.</li>
+		<li>Proven ability in performing Automation Testing with Selenium WebDriver with Test Automation Frameworks like Behavior-driven Testing, Data-driven Testing and Modular (Page Object Model) for various Web applications.</li>
+		<li>Experience in working with open-source tools such as Selenium Web Driver, Cucumber, Maven, TestNG, JUnit, Jira, Rest-Assured, Postman, Eclipse, and IntelliJ IDEA.</li>
+		<li>
+Experience in Mentoring in different tools like Java, Selenium, Cucumber, SQL and Selenium Grid.</li>	</ul>
+<hr/>
+<h5>Work experience</h5>
+<table>
+	<thead>
+		<td><b>Dates</b></td>
+		<td align="left"><b>Work</b></td>
+	</thead>
+	<tr>
+		<td>2019-2021</td>
+		<td>Instructor at the Techtorial</td>
+	</tr>
+	<tr>
+		<td>2017-2019</td><td> Software Test Engineer at Walmart</td>
+	</tr>
+	<tr><td>2015-2017</td><td>QA Engineer at Global Logic</td></tr>
+</table>
+
+<hr/>
+<h4>Technical Skills</h4>
+<table border=3>
+	<tr>
+		<td>Java</td>
+		<td>⭐⭐⭐⭐⭐</td>
+		<td>JUnit</td>
+		<td>⭐⭐⭐⭐⭐</td>
+		<td>Selenium Grid</td>
+		<td>⭐⭐⭐⭐⭐</td>	
+	</tr>
+	<tr>
+		<td>Selenium</td>
+		<td>⭐⭐⭐⭐⭐</td>
+		<td>TestNG</td>
+		<td>⭐⭐⭐⭐⭐</td>
+		<td>Appium</td>
+		<td>⭐⭐⭐⭐⭐</td>	
+	</tr>
+	<tr>
+		<td>Cucumber/td>
+		<td>⭐⭐⭐⭐⭐</td>
+		<td>Rest-Assured</td>
+		<td>⭐⭐⭐⭐⭐</td>
+		<td>HTML</td>
+		<td>⭐⭐⭐⭐⭐</td>	
+	</tr>
+	<tr>
+		<td>TestNG</td>
+		<td>⭐⭐⭐⭐⭐</td>
+		<td>Postman</td>
+		<td>⭐⭐⭐⭐⭐</td>
+		<td>Css</td>
+		<td>⭐⭐⭐⭐⭐</td>	
+	</tr></td></tr></table><hr/>
+	<p id="ss">
+		<a href="C:\Users\uguru\Desktop\ProjectDayHtml\MyHobbies.html">My Hobbies</a>
+		<a href="C:\Users\uguru\Desktop\ProjectDayHtml\Contact.html">Contact Me</a></p>
+</body>
+</html>
