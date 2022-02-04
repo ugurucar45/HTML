@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Headers</title>
+</head>
+<body>
+	<h1>Header Practice</h1>
+	<p>This website is purely to practice all the levels of a header!</p>
+	<br><br>
+	<h2>Level 2 Header</h2>
+	<h3>Level 3 Header</h3>
+	<p>Can you tell the differences in headers yet</p>
+	<h4>Level 4 Header</h4>
+	<br><br>
+	<p>Can you tell me difference when a break is added?</p>
+	<h5>Level 5 header</h5>
+
+	<h6><b>The end</b></h6>
+
+</body>
+</html>
