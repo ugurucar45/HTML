@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Ugur's Page</title>
+	<link rel="stylesheet" type="text/css" href="C:\Users\uguru\Desktop\html\css.css">
+</head>
+<body>
+	<h1>First head</h1>
+	<h2>Second head</h2>
+	<h3>third head</h3>
+	<h4>fourth head</h4>
+	<h5>fifth head</h5>
+	<h6>sixth head</h6>
+	<p>Burnt Candlemas was a failed invasion of Scotland in early 1356 by an English army commanded by King Edward III (pictured), and was the last campaign of the Second War of Scottish Independence. Tensions on the Anglo-Scottish border led to a military build-up in 1355. In September a nine-month truce was agreed, and most of the English left. A few days later the Scots invaded and devastated Northumberland. In early November, the Scots escaladed the walls of Berwick-on-Tweed, captured the town and laid siege to its castle. The English army retook the town and marched on Edinburgh, leaving a trail of devastation 50 to 60 miles (80 to 100 km) wide. The Scots refused battle and practised a scorched earth policy, removing or destroying all food in their own territory. The English burnt Edinburgh and thoroughly despoiled Lothian. Edward's army was supplied by sea, but a winter storm scattered his fleet, forcing the English to withdraw. In 1357 a permanent peace was agreed, largely on English terms.</p><p id="paragraf">Selam second paragraf sadece salliyorum paragrafi bulup cevirmeklik bir seyler yapmayi istedi</p>
+	<ol>
+		<li>Houston</li>
+		<li>Chiago</li>
+		<li>New York</li>
+		<li>Los Angelas</li>
+		<li>Manisa</li>
+		<!-- this is commend line-->
+		<!-- this is order list-->
+	</ol>
+	<ul>
+		<li>USA</li>
+		<li>Canada</li>
+		<li>Mexico</li>
+		<li>Kyrgyzstan</li>
+		<li>Moldova</li>
+		<li>Turkey</li>
+		<!-- this is unordered list-->
+
+	</ul>
+
+<!--Division(seperate the box)-->
+<div name ="Country Images">
+	<a href="https://en.wikipedia.org/wiki/United_States" target="_blank">
+	<h3>USA</h3>
+	</a>
+	<img width="140px" src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/800px-Flag_of_the_United_States.svg.png">
+</div>
+<div>
+	<a href="https://en.wikipedia.org/wiki/Turkey">
+	<h4>Turkey</h4>
+	</a>
+	<img width="140px" src="C:\Users\uguru\Desktop\html/Turkey.png">
+</div>
+<br>
+<table border=3>
+	<thead>
+		<th>FOOD</th>
+		<th>PRICE</th>
+		<th>CALORIES</th>
+		<th>GLUTEN FREE</th>
+	</thead>
+	<tr>
+		<td>Burger</td>
+		<td>9.99</td>
+		<td>850</td>
+		<td>No</td>
+	</tr>
+	<tr>
+		<td>Doner</td>
+		<td>8.99</td>
+		<td>700</td>
+		<td>No</td>
+	</tr>
+	<tr>
+		<td>Pizza</td>
+		<td>12.99</td>
+		<td>950</td>
+		<td>Yes</td>
+	</tr>
+</table>
+<br>
+<dir>
+<table border=3>
+	<tr>
+		<td>CHICAGO</td>
+		<td>⭐⭐⭐⭐⭐</td>
+		<td>HOUSTON</td>
+		<td>⭐⭐⭐⭐</td>
+		<td>SEATTLE</td>
+		<td>⭐⭐⭐⭐</td>	
+	</tr>
+	<tr>
+		<td>NEW YORK</td>
+		<td>⭐</td>
+		<td>MIAMI</td>
+		<td>⭐⭐⭐</td>
+		<td>FLORIDA</td>
+		<td>⭐⭐⭐⭐⭐</td>	
+	</tr>
+	<tr>
+		<td>LA</td>
+		<td>⭐⭐⭐⭐</td>
+		<td>BOSTON</td>
+		<td>⭐⭐</td>
+		<td>TEMPA</td>
+		<td>⭐⭐</td>	
+	</tr>
+	<tr>
+		<td>TEXAS</td>
+		<td>⭐</td>
+		<td>NEW JERSEY</td>
+		<td>⭐</td>	
+		<td>OHIO</td>
+		<td>⭐</td>		
+	</tr>
+</table>
+</dir>
+
+<br><br>
+<label for="fname">FIRST NAME&emsp;=</label>
+<input type="text" id="fname" name="fname">
+<br>
+<label for="email">E-MAIL:</label>
+<input type="email" name="email">
+<br>
+<label for="password">PASSWORD:</label>
+<input type="password" name="password">
+<BR>
+<label for="date">DATE:</label>
+<input type="date" name="date">
+
+
+
+
+
+
+</body>
+</html>
