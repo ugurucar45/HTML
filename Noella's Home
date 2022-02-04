@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Noelle's Page</title>
+	<h1>Noelle's Homepage</h1>
+	<p>This webpage was created to tell my viewers a little about yourself</p>
+</head>
+<body>
+	<h2>Website Updates</h2>
+	<p>I will be updating this webpage constantly. Listed below are some topics to come:<br><br>
+		1.Facts about myself.<br><br>
+		2.My hobbies and interests<br><br>
+		3.Future plans and goals.</p>
+</body>
+<head>
+	<p>Thanks for reading, see you soon!<br>
+		Sincerely,Noelle
+	</p>
+</head>
+</html>
