@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Contact</title>
+</head>
+<body>
+	<h2>My Contact Details</h2>
+	<p>My Personal Adress</p>
+
+	<p>222-222-2222</p>
+
+	<p>my@techtorial.com</p>
+	<hr/>
+	<label for="date"></label>
+	<input type="date" name="date">
+	<br>
+	<label for="fname">Your Name:</label>
+	<input type="text" id="fname" name="fname">
+	<br>
+<label for="email">Your Email:</label>
+<input type="email" name="email">
+<br>
+<label for="message">Your Message:</label>
+<br>
+<textarea class="form-control feedback toggle-placeholder" id="feedback" name="feedback" placeholder="" size="100px" data-ved="0ahUKEwiwyqXl8OT1AhXRh_0HHWRUBA8Q39UDCAQ"></textarea>
+<br>
+<input class="gNO89b" value="Submit" aria-label="Submit" name="btnK" type="submit" data-ved="0ahUKEwiwyqXl8OT1AhXRh_0HHWRUBA8Q4dUDCA0">
+
+</body>
+</html>
