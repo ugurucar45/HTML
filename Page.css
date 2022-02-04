@@ -1,0 +1,13 @@
+img.yuvarlak {
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+    object-fit: cover;
+}
+html{
+	background-color: #4ecccf;
+}
+#ss{
+	width: 160px;
+	background-color: white;
+}
